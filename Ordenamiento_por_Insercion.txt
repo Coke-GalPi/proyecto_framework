@@ -1,0 +1,12 @@
+// esto es un fragmento de ordenamiento por inserción en java
+
+int pos, aux;
+        for (int i = 0; i < numero; i++){
+            pos = i;
+            aux = vector[i];
+            while((pos > 0) && (vector[pos-1] > aux)){
+                vector [pos] = vector [pos-1];
+                pos--;
+            }
+            vector[pos] = aux;
+        }
