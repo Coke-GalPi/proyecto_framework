@@ -1,7 +1,6 @@
-###Este es el repositorio para el proyecto de FLP, con el framework FastAPI
+# Este es el repositorio para el proyecto de FLP, con el framework FastAPI
 
-
-##Pasos para usar FastAPI.
+## Pasos para usar FastAPI.
 
     1.- Debe instalar la libreria de fastapi por terminal
 
@@ -15,11 +14,11 @@
 
         pip install uvicorn[standard]
 
-##Para ejecutar el codigo debe utilizar el comando:
+## Para ejecutar el codigo debe utilizar el comando:
 
     uvicorn main:app --reload
 
-##Documentación:
+## Documentación:
 
     Python: 
 
