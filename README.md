@@ -1,5 +1,21 @@
 # Este es el repositorio para el proyecto de FLP, con el framework FastAPI
 
+## Descaragar VS Code y Python 3.10.8
+    
+    VS Code:
+
+        https://code.visualstudio.com/Download
+
+    Python:
+
+        https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
+
+    Extensiones:
+
+        Python Extension Pack.
+
+        Code Runner.
+
 ## Pasos para usar FastAPI.
 
     1.- Debe instalar la libreria de fastapi por terminal
