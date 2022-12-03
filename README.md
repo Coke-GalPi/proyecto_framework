@@ -18,7 +18,7 @@
 
 ## Pasos para usar FastAPI.
 
-    1.- Debe instalar la libreria de fastapi por terminal
+    1.- Debe instalar la libreria de fastapi por terminal de VS Code
 
         pip install fastapi
 
@@ -28,7 +28,13 @@
 
     3.- Esto instalará uvicorn con dependencias mínimas (Python puro).
 
-        pip install uvicorn[standard]
+        pip install uvicorn[standard] 
+
+    4.- Otras librerias 
+
+        pip install autopep8
+
+        pip install jinja2 // gestor de plantillas
 
 ## Para ejecutar el codigo debe utilizar el comando:
 
